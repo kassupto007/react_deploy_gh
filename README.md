@@ -12,9 +12,15 @@
 
 ### We also need to add Homepage just below version
 
+- "homepage": "https://git*GIT-USERNAME*.github.io/_REPO-NAME_"
+
 - "homepage": "https://gitkassupto007.github.io/react_deploy_gh"
 
 ### You also need to write some script inside scripts key in package.json
 
 - "predeploy": "npm run build",
 - "deploy": "gh-pages -d build"
+
+### After you push the code to GitHub, you have to write this on your terminal
+
+- npm run deploy
