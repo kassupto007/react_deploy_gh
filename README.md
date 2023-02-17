@@ -12,9 +12,9 @@
 
 ### We also need to add Homepage just below version
 
-- "homepage": "https://git*GIT-USERNAME*.github.io/_REPO-NAME_"
+- "homepage": "https://_GIT-USERNAME_.github.io/_REPO-NAME_"
 
-- "homepage": "https://gitkassupto007.github.io/react_deploy_gh"
+- "homepage": "https://kassupto007.github.io/react_deploy_gh"
 
 ### You also need to write some script inside scripts key in package.json
 
